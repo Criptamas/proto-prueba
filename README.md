@@ -25,6 +25,5 @@ No usar autocompletado de código.
 No es necesario completar toda la prueba, lo que se alcance en el tiempo establecido está bien.
 Para maquetar se puede utilizar cualquier librería CSS puro, tailwindCSS etc…
 Es obligatorio usar React con TypeScript.
-Es Necesario encender la cámara para evitar algún tipo de trampa.
 
 
